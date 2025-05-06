@@ -1,19 +1,24 @@
 **Movie Recommendation System using Python**
+
 This project implements a Movie Recommendation System using Python. 
 It suggests movies to users based on various techniques, including collaborative filtering, content-based filtering, and hybrid approaches. 
 The system leverages popular machine learning libraries and datasets to recommend movies effectively.
 
-**Project Overview
-Objective**
+**Project Overview**
+
+**Objective**
+
 The objective of this project is to build a recommendation system that can suggest movies based on user preferences, movie characteristics, and collaborative data. The system is intended for use by movie enthusiasts or platforms seeking to recommend movies to their users.
 
 **Scope**
+
 This system works with:
 Collaborative filtering: Recommending movies based on user behavior and preferences.
 Content-based filtering: Recommending movies based on movie features like genre, director, and cast.
 Hybrid approach: Combining both methods for more accurate results.
 
 **Features**
+
 1. Movie Recommendations
 The system recommends movies based on collaborative filtering (user-item interactions) and content-based filtering (movie metadata).
 
@@ -33,6 +38,7 @@ The system provides metrics (e.g., RMSE, MAE) to evaluate the quality of recomme
 (Optional, if you’ve built it) A user-friendly web interface (e.g., using Streamlit) that allows users to interact with the recommendation system.
 
 **Technologies Used**
+
 Python: Programming language for implementing the recommendation system.
 Pandas: For data manipulation and cleaning.
 NumPy: For numerical operations.
